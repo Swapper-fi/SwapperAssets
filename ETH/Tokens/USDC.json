@@ -1,5 +1,7 @@
 {
-  "token_name": "",
-  "contract_address": "",
-  "coingecko_api": ""
+  "TokenName":     "",
+	"TokenTicker":   "",
+	"TokenContract": "",
+	"CoingeckoID":   "value-usd",
+	"Decimals":      18
 }
