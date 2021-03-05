@@ -1,0 +1,12 @@
+{
+  "name": "swapperassets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Swapper-fi/SwapperAssets.git",
+  "author": "syahrul12345 <muhdsyahrulnizam123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "clean": "node ./scripts/scripts.js"
+  },
+  "type": "commonjs"
+}
