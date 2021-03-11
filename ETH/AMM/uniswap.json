@@ -1,0 +1,45 @@
+{
+  "platform": "uniswap",
+  "tokens": [
+    {
+      "name": "WBTC-ETH",
+      "address": "0xbb2b8038a1640196fbe3e38816f3e67cba72d940",
+      "assetName1": "WBTC",
+      "assetAddress1": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "assetName2": "ETH",
+      "assetAddress2": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    },
+    {
+      "name": "USDC-ETH",
+      "address": "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
+      "assetName1": "USDC",
+      "assetAddress1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "assetName2": "ETH",
+      "assetAddress2": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    },
+    {
+      "name": "RAI-ETH",
+      "address": "0x8ae720a71622e824f576b4a8c03031066548a3b1",
+      "assetName1": "RAI",
+      "assetAddress1": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+      "assetName2": "ETH",
+      "assetAddress2": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    },
+    {
+      "name": "ETH-USDT",
+      "address": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+      "assetName1": "ETH",
+      "assetAddress1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "assetName2": "USDT",
+      "assetAddress2": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    },
+    {
+      "name": "DPI-ETH",
+      "address": "0x4d5ef58aac27d99935e5b6b4a6778ff292059991",
+      "assetName1": "DPI",
+      "assetAddress1": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+      "assetName2": "ETH",
+      "assetAddress2": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    }
+  ]
+}

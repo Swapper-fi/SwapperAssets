@@ -1,0 +1,10 @@
+[
+  {
+    "platform": "sushiswap",
+    "endpoint": "/sushiswap.json"
+  },
+  {
+    "platform": "uniswap",
+    "endpoint": "/uniswap.json"
+  }
+]
