@@ -1,7 +1,7 @@
 [
   {
     "platform": "sushiswap",
-    "endpoint": "https://raw.githubusercontent.com/Swapper-fi/SwapperAssets/main/ETH/AMM/uniswap.json"
+    "endpoint": "https://raw.githubusercontent.com/Swapper-fi/SwapperAssets/main/ETH/AMM/sushiswap.json"
   },
   {
     "platform": "uniswap",
