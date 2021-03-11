@@ -1,0 +1,6 @@
+[
+  {
+    "platform": "pancakeswap",
+    "endpoint": "https://raw.githubusercontent.com/Swapper-fi/SwapperAssets/main/BSC/AMM/pancakeswap.json"
+  }
+]
